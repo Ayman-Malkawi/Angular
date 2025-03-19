@@ -1,0 +1,6 @@
+@DashBord.Server_HostAddress = http://localhost:5228
+
+GET {{DashBord.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

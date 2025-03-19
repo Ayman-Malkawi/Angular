@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "MujPxL22TPpXFcS5V8tNQK9ba/HmhcEZKMgy9t0G/Uw=",
+  "Source": "AngularFirst.Server",
+  "BasePath": "_content/AngularFirst.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\angular\\AngularFirst\\Angular\\angularfirst.client\\angularfirst.client.esproj",
+      "Version": 2,
+      "Source": "angularfirst.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

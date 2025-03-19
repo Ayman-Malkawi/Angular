@@ -1,0 +1,3 @@
+C:\Users\Orange\Desktop\Coffee.Master\AngularFirst\angularfirst.client\obj\Debug\angularfirst.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\angular\AngularFirst\angularfirst.client\obj\Debug\angularfirst.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\angular\AngularFirst\Angular\angularfirst.client\obj\Debug\angularfirst.client.esproj.CoreCompileInputs.cache
