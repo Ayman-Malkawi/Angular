@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\read\\read.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\read\\read.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\read\\read.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\read\\read.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\edit\\edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\edit\\edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\create\\create.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\create\\create.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\crud\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\crud\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|c:\\users\\orange\\desktop\\angular\\crud\\crud\\crud.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1517830-99F3-4977-928B-778AAE65DC7E}|crud.client\\crud.client.esproj|solutionrelative:crud.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "create.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\create\\create.component.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\create\\create.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\create\\create.component.html",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\create\\create.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:37:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\edit\\edit.component.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\edit\\edit.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\edit\\edit.component.html",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\edit\\edit.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:27:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "read.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\read\\read.component.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\read\\read.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\read\\read.component.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\read\\read.component.ts",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T19:17:49.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "read.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\read\\read.component.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\read\\read.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\read\\read.component.html",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\read\\read.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:29:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\service.service.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\service.service.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\service.service.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T19:14:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\edit\\edit.component.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\edit\\edit.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\edit\\edit.component.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\edit\\edit.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:29:36.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:17:39.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\create\\create.component.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\create\\create.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\create\\create.component.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\create\\create.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:38:33.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\Crud\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\Crud\\navbar\\navbar.component.html",
+              "RelativeToolTip": "crud.client\\src\\app\\Crud\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:07:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "crud.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:05:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "crud.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:08:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\index.html",
+              "RelativeDocumentMoniker": "crud.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\angular\\Crud\\Crud\\crud.client\\src\\index.html",
+              "RelativeToolTip": "crud.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:09:38.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

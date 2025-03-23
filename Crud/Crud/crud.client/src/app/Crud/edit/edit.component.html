@@ -1,0 +1,14 @@
+<form #edit ="ngForm" (ngSubmit)="editoneitem(edit.value)" >
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">email</label>
+    <input type="email" class="form-control"name="Email" ngModel id="exampleInputEmail1" >
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">name</label>
+    <input type="text" class="form-control" name="name" ngModel >
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

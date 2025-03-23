@@ -1,0 +1,12 @@
+<form #add="ngForm" (ngSubmit)="Add(add.value)" >
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email address</label>
+    <input type="text" class="form-control" name="name" id="exampleInputEmail1" ngModel>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input type="text"  name="email" class="form-control"  ngModel  >
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
